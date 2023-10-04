@@ -1,5 +1,5 @@
 AUTHOR = 'Sophia Ruduke'
-SITENAME = 'CMPUT 404 Lab 4'
+SITENAME = 'CMPUT 404 Lab 5'
 SITEURL = ''
 
 THEME = 'templates/mytheme'
